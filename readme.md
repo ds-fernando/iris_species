@@ -1,5 +1,7 @@
 # 🏷️ Proyecto: Clustering de Especies de Iris con K-means
 
+![Image_Alt](https://miro.medium.com/v2/resize:fit:1400/0*11IwZmSKXw77eYz5)
+
 ## 📌 Descripción
 
 Análisis de clustering no supervisado utilizando el algoritmo **K-means** sobre el dataset Iris, que contiene medidas morfológicas de tres especies de flores:
@@ -7,6 +9,7 @@ Análisis de clustering no supervisado utilizando el algoritmo **K-means** sobre
 - Iris setosa
 - Iris versicolor
 - Iris virginica
+
 
 ## 📊 Descripción de Columnas (Dataset Iris)
 
